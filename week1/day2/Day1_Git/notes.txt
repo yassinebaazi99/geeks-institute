@@ -1,2 +1,2 @@
-Initial notes placeholder.
-Today I practiced creating commits and reviewing history.
+Git is a version control system that helps track changes in code.
+It allows collaboration and maintains a complete history of the project.
