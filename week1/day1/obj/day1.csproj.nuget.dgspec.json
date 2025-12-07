@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omen\\geeks-institute\\week1\\day1\\day1.csproj": {}
+    "C:\\Users\\omen\\Desktop\\geeks-institute\\week1\\day1\\day1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omen\\geeks-institute\\week1\\day1\\day1.csproj": {
+    "C:\\Users\\omen\\Desktop\\geeks-institute\\week1\\day1\\day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omen\\geeks-institute\\week1\\day1\\day1.csproj",
+        "projectUniqueName": "C:\\Users\\omen\\Desktop\\geeks-institute\\week1\\day1\\day1.csproj",
         "projectName": "day1",
-        "projectPath": "C:\\Users\\omen\\geeks-institute\\week1\\day1\\day1.csproj",
+        "projectPath": "C:\\Users\\omen\\Desktop\\geeks-institute\\week1\\day1\\day1.csproj",
         "packagesPath": "C:\\Users\\omen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omen\\geeks-institute\\week1\\day1\\obj\\",
+        "outputPath": "C:\\Users\\omen\\Desktop\\geeks-institute\\week1\\day1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
